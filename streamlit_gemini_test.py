@@ -1,4 +1,4 @@
-# filepath: streamlit-gemini-quicktest/streamlit_gemini_test.py
+# streamlit_gemini_test_v2.py
 import os
 import streamlit as st
 
